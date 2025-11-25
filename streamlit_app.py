@@ -74,10 +74,10 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-    labels[0]:{"text":["중국식 냉면은 맛있어],"image":["https://www.unileverfoodsolutions.co.kr/dam/global-ufs/mcos/south-korea/calcmenu/recipes/kr-recipes/chinese/header/%EC%A4%91%EA%B5%AD%EB%83%89%EB%A9%B4-chinese-cold-noodles-header-1260x709px.jpg"]},
-    labels[1]:{"text":["짜장면은 맛있어],"image":["https://image.8dogam.com/resized/product/asset/v1/upload/6833c73eae0949eb8bcbed560c903198.jpeg?type=big&res=3x&ext=jpg"]},
-    labels[2]:{"text":["짬뽕은 맛있어],"image":["https://recipe1.ezmember.co.kr/cache/recipe/2023/09/28/508b7b33d78930782020c04e793a1b251.jpg"]},
-    labels[3]:{"text":["탕수은 맛있어],"image":["https://godomall.speedycdn.net/ec5d2a1c8483712efb957784c858b320/goods/1000008075/image/add3/1000008075_add3_019.jpg"]},
+    labels[0]:{"text":["중국식 냉면은 맛있어"],"image":["https://www.unileverfoodsolutions.co.kr/dam/global-ufs/mcos/south-korea/calcmenu/recipes/kr-recipes/chinese/header/%EC%A4%91%EA%B5%AD%EB%83%89%EB%A9%B4-chinese-cold-noodles-header-1260x709px.jpg"]},
+    labels[1]:{"text":["짜장면은 맛있어"],"image":["https://image.8dogam.com/resized/product/asset/v1/upload/6833c73eae0949eb8bcbed560c903198.jpeg?type=big&res=3x&ext=jpg"]},
+    labels[2]:{"text":["짬뽕은 맛있어"],"image":["https://recipe1.ezmember.co.kr/cache/recipe/2023/09/28/508b7b33d78930782020c04e793a1b251.jpg"]},
+    labels[3]:{"text":["탕수은 맛있어"],"image":["https://godomall.speedycdn.net/ec5d2a1c8483712efb957784c858b320/goods/1000008075/image/add3/1000008075_add3_019.jpg"]},
 
 # ======================
 # 유틸
